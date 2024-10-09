@@ -48,6 +48,13 @@
 
 **Подготовка к выполнению**
 
+![image](https://github.com/user-attachments/assets/057e5fe3-2f3f-4d13-806c-55c827ac564c)
+
+![image](https://github.com/user-attachments/assets/917a0a69-ffbe-40f9-9a1c-91797e1eec4a)
+
+
+
+
 
 
 
