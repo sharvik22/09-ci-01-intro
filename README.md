@@ -48,15 +48,12 @@
 
 **Подготовка к выполнению**
 
-![image](https://github.com/user-attachments/assets/057e5fe3-2f3f-4d13-806c-55c827ac564c)
+![image](https://github.com/user-attachments/assets/40eb3f6f-4b22-4775-a075-3c194e50ed6b)
 
-![image](https://github.com/user-attachments/assets/917a0a69-ffbe-40f9-9a1c-91797e1eec4a)
+![image](https://github.com/user-attachments/assets/b02a479f-5696-42d0-b6e6-36821cdfda18)
 
-![image](https://github.com/user-attachments/assets/0bb6f79d-3d66-4b82-bad9-28e14031cbf5)
 
-![image](https://github.com/user-attachments/assets/1e47ac68-7c09-4116-b3b2-1b46250ce352)
 
-![image](https://github.com/user-attachments/assets/55d28699-d203-448c-92df-04e31827fbf6)
 
 
 
