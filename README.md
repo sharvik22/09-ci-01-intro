@@ -80,9 +80,6 @@
 
 ![image](https://github.com/user-attachments/assets/abb1ea7a-2af2-4956-862b-969dbf78ee1b)
 
-![image](https://github.com/user-attachments/assets/9855c336-3253-4960-b15c-7d2a2f6f74e1)
-
-![image](https://github.com/user-attachments/assets/30d2fb9f-e3d9-4a5a-ad99-3996ce67b266)
 
 **Перейдите в Scrum, запланируйте новый спринт, состоящий из задач эпика и одного бага, стартуйте спринт, проведите задачи до состояния Closed. Закройте спринт.**
 
