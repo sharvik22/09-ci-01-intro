@@ -46,7 +46,9 @@
 
 ### Решение
 
-**Подготовка к выполнению**
+**Подготовка к выполнению**\
+
+**В Docker поднял Jirra*
 
 ![image](https://github.com/user-attachments/assets/40eb3f6f-4b22-4775-a075-3c194e50ed6b)
 
