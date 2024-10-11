@@ -86,15 +86,19 @@
 
  **Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.**
 
-Я не нашел как импортнусть, вот скрины схем
+**Я не нашел как импортнусть, вот скрины схем**
+
+![image](https://github.com/user-attachments/assets/8a32656f-c025-4f57-b1f3-9214adc3a90c)
 
 
 # bug
 
+![image](https://github.com/user-attachments/assets/a4f443b2-14fb-4e38-b63d-d2c104563e8f)
 
 
 # all
 
+![image](https://github.com/user-attachments/assets/1c00d9bb-dbf0-43f2-a942-6f314fdbc516)
 
 
 
