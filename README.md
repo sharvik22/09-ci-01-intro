@@ -58,7 +58,14 @@
 
 ![image](https://github.com/user-attachments/assets/3bd66cad-dab9-4587-ae4b-148d1baba33b)
 
+# bug
+
 ![image](https://github.com/user-attachments/assets/754a8776-e593-497c-9a54-1c9b2a052ba0)
+
+# all
+
+![image](https://github.com/user-attachments/assets/8a8a22da-fb3f-4f22-ba3f-d8f279f7c48a)
+
 
 
 
