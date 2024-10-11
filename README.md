@@ -53,6 +53,10 @@
 ![image](https://github.com/user-attachments/assets/b02a479f-5696-42d0-b6e6-36821cdfda18)
 
 
+Что нужно сделать
+
+Создайте задачу с типом bug, попытайтесь провести его по всему workflow до Done.
+
 ![image](https://github.com/user-attachments/assets/68e8c49d-d336-4ca6-bad9-1747117e2ee4)
 
 ![image](https://github.com/user-attachments/assets/f227faeb-6cc0-4df3-8d4f-a3f8490bba47)
